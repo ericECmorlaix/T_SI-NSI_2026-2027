@@ -1,4 +1,4 @@
-name: Mon nouveau site
+name: T_SI-NSI_2026-2027
 on:
   push:
     branches:
