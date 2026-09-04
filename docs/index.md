@@ -255,22 +255,24 @@
 
 ***
 
-## Séance SI-NSI du 04/09
+- **Découvrir** le fonctionnement des réseaux informatiques par la pratique : [Network-TP1](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI-NSI_2025-2026/CR/Network-Un_BN_pour_la_communication_en_reseau-TP1.ipynb){target=_blank} ;
+
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TSI-NSI_2025-2026/CR/Network-Un_BN_pour_la_communication_en_reseau-TP1.ipynb){ .md-button .md-button--primary } [Capytale n° `e30a-6969721`](https://capytale2.ac-paris.fr/web/c/e30a-6969721){target=_blank .md-button .md-button--primary }
+-->
+## Séances SI-NSI des 02 et 04/09
 
 === "CONTENU DE SÉANCE"
 
     - Présentation du fonctionnement...
 
-    - Projets, objectif ["Fête de la science"](./fete_de_la_science) le 13 octobre... -> ==Réflexion collective en mode "brainstorming" pour trouver des pistes de médiation scientifique de préférence en lien avec le thème retenu==
-
-    - **Découvrir** le fonctionnement des réseaux informatiques par la pratique : [Network-TP1](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI-NSI_2025-2026/CR/Network-Un_BN_pour_la_communication_en_reseau-TP1.ipynb){target=_blank} ;
-
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TSI-NSI_2025-2026/CR/Network-Un_BN_pour_la_communication_en_reseau-TP1.ipynb){ .md-button .md-button--primary } [Capytale n° `e30a-6969721`](https://capytale2.ac-paris.fr/web/c/e30a-6969721){target=_blank .md-button .md-button--primary }
+    - Projets, objectif ["Fête de la science"](./fete_de_la_science) le 12 octobre :
+        - rechercher des pistes de projets supports de médiations scientifiques en lien avec le thème retenu ;
+        - réaliser un poster (type diagramme de contexte) présentant le système envisagé et listant ses fonctionnalités...    
 
 === "TRAVAIL À FAIRE"
 
     - Poursuivre les travaux engagés...
---> 
+ 
 
 ## Vie de classe du 02/09
 
