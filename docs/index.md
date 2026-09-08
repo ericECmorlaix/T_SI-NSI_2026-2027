@@ -1,5 +1,5 @@
 
-[![PJ](images/undraw_Team_re_0bfe.svg "# TEAM - TSI-NSI_2025-2026"){: align=left width=10%}](){target=_blank}[![PJ](images/undraw_Mailbox_re_dvds.svg "@ecmorlaix.fr"){: align=right width=10%}](mailto:@ecmorlaix.fr){target=_blank}Ce site s'adresse à des élèves de terminale du lycée Notre Dame du Mur de MORLAIX pour la vie de classe, l'orientation et les projets en SI et NSI...
+[![PJ](images/undraw_Team_re_0bfe.svg "# TEAM - T_SI-NSI_2026-2027"){: align=left width=10%}](){target=_blank}[![PJ](images/undraw_Mailbox_re_dvds.svg "@ecmorlaix.fr"){: align=right width=10%}](mailto:@ecmorlaix.fr){target=_blank}Ce site s'adresse à des élèves de terminale du lycée Notre Dame du Mur de MORLAIX pour la vie de classe, l'orientation et les projets en SI et NSI...
 
 ![board](images/undraw_right_direction_tge8.svg){: .center width=50%}
 
@@ -203,8 +203,8 @@
 === "CONTENU DE SÉANCE"
     
     - **Découvrir** le fonctionnement des réseaux informatiques par la pratique :
-        - Retour sur [Network-TP1](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI-NSI_2025-2026/CR/Network-Un_BN_pour_la_communication_en_reseau-TP1.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TSI-NSI_2025-2026/CR/Network-Un_BN_pour_la_communication_en_reseau-TP1.ipynb){ .md-button .md-button--primary } [Capytale e30a-6969721](https://capytale2.ac-paris.fr/web/c/e30a-6969721){target=_blank .md-button .md-button--primary } ;
-        - Mise en oeuvre de [Network-TP2](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI-NSI_2025-2026/CR/Network-Un_BN_pour_la_communication_en_reseau-TP2.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TSI-NSI_2025-2026/CR/Network-Un_BN_pour_la_communication_en_reseau-TP2.ipynb){ .md-button .md-button--primary } [Capytale c91a-3900713](https://capytale2.ac-paris.fr/web/c/c91a-3900713){target=_blank .md-button .md-button--primary } ; 
+        - Retour sur [Network-TP1](https://nbviewer.org/urls/ericecmorlaix.github.io/T_SI-NSI_2026-2027/CR/Network-Un_BN_pour_la_communication_en_reseau-TP1.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/T_SI-NSI_2026-2027/CR/Network-Un_BN_pour_la_communication_en_reseau-TP1.ipynb){ .md-button .md-button--primary } [Capytale e30a-6969721](https://capytale2.ac-paris.fr/web/c/e30a-6969721){target=_blank .md-button .md-button--primary } ;
+        - Mise en oeuvre de [Network-TP2](https://nbviewer.org/urls/ericecmorlaix.github.io/T_SI-NSI_2026-2027/CR/Network-Un_BN_pour_la_communication_en_reseau-TP2.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/T_SI-NSI_2026-2027/CR/Network-Un_BN_pour_la_communication_en_reseau-TP2.ipynb){ .md-button .md-button--primary } [Capytale c91a-3900713](https://capytale2.ac-paris.fr/web/c/c91a-3900713){target=_blank .md-button .md-button--primary } ; 
 
     
     - Projets, objectif ["Fête de la science"](./fete_de_la_science) le 13 octobre... -> ==**Compléter** votre TODO liste, **prioriser** les tâches et **vérifier** leur faisabilité technique.==
@@ -236,9 +236,9 @@
         >
         > Et **Répondre** à la question transversale : *Peut-on affirmer que derrière toutes ces Intelligences Artificielles se cache en réalité toujours de l'intelligence humaine ?*
 
-    - **Découvrir** le fonctionnement des réseaux informatiques par la pratique : [Network-TP1](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI-NSI_2025-2026/CR/Network-Un_BN_pour_la_communication_en_reseau-TP1.ipynb){target=_blank} ;
+    - **Découvrir** le fonctionnement des réseaux informatiques par la pratique : [Network-TP1](https://nbviewer.org/urls/ericecmorlaix.github.io/T_SI-NSI_2026-2027/CR/Network-Un_BN_pour_la_communication_en_reseau-TP1.ipynb){target=_blank} ;
 
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TSI-NSI_2025-2026/CR/Network-Un_BN_pour_la_communication_en_reseau-TP1.ipynb){ .md-button .md-button--primary } [Capytale n° `e30a-6969721`](https://capytale2.ac-paris.fr/web/c/e30a-6969721){target=_blank .md-button .md-button--primary }
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/T_SI-NSI_2026-2027/CR/Network-Un_BN_pour_la_communication_en_reseau-TP1.ipynb){ .md-button .md-button--primary } [Capytale n° `e30a-6969721`](https://capytale2.ac-paris.fr/web/c/e30a-6969721){target=_blank .md-button .md-button--primary }
 
 === "TRAVAIL À FAIRE"
 
@@ -261,9 +261,9 @@
 
 === "CONTENU DE SÉANCE"
 
-    - **Découvrir** le fonctionnement des réseaux informatiques par la pratique : [Network-TP1](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI-NSI_2025-2026/CR/Network-TP1.ipynb){target=_blank} ;
+    - **Découvrir** le fonctionnement des réseaux informatiques par la pratique : [Network-TP1](https://nbviewer.org/urls/ericecmorlaix.github.io/T_SI-NSI_2026-2027/CR/Network-TP1.ipynb){target=_blank} ;
 
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/TSI-NSI_2025-2026/CR/Network-TP1.ipynb){ .md-button .md-button--primary } [Capytale n° `e30a-6969721`](https://capytale2.ac-paris.fr/web/c/e30a-6969721){target=_blank .md-button .md-button--primary }
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/T_SI-NSI_2026-2027/CR/Network-TP1.ipynb){ .md-button .md-button--primary } [Capytale n° `e30a-6969721`](https://capytale2.ac-paris.fr/web/c/e30a-6969721){target=_blank .md-button .md-button--primary }
 
     
 
