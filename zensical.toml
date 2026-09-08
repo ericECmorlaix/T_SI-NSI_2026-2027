@@ -47,7 +47,9 @@ nav = [
   {"Projets" = [
     {"Village des sciences" = "fete_de_la_science.md"},
 #     {"Projet d'année et grand oral" = "projet_annee-GO.md"},
-  ]}
+  ]},
+  {"TSI_2026-2027" = "https://ericecmorlaix.github.io/TSI_2026-2027/"},
+  {"TNSI_2026-2027" = "https://ericecmorlaix.github.io/TNSI_2026-2027/"}
 ]
 
 # With the "extra_css" option you can add your own CSS styling to customize
