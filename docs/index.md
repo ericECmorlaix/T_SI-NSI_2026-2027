@@ -265,11 +265,13 @@
 
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/T_SI-NSI_2026-2027/CR/Network-TP1.ipynb){ .md-button .md-button--primary } [Capytale n° `e30a-6969721`](https://capytale2.ac-paris.fr/web/c/e30a-6969721){target=_blank .md-button .md-button--primary }
 
-    
+    - Synthèse:[adressage IP et protocole TCP/IP](./CR/FC_Reseaux_TCP-IP.pdf){target=_blank} ;
 
 === "TRAVAIL À FAIRE"
 
-    - Projets, ["Fête de la science"](./fete_de_la_science.md), **finaliser** votre poster (type diagramme de contexte) présentant le système envisagé et listant ses fonctionnalités...    
+    - Projets, ["Fête de la science"](./fete_de_la_science.md), **finaliser** votre poster (type diagramme de contexte) présentant le système envisagé et listant ses fonctionnalités...
+    
+    - **Finir** les exercices d'[adressage IP et protocole TCP/IP](./CR/FC_Reseaux_TCP-IP.pdf){target=_blank} ;    
 ***
 ## Séances SI-NSI des 02 et 04/09
 
