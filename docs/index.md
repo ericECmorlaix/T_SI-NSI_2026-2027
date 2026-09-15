@@ -246,12 +246,7 @@
 
 ***
 
-## Vie de classe du 08/09
 
-- **Rendre** une attestation de recensement ou de JDC ;
--  **Réaliser** une fiche de renseignements pour l'orientation au format `Markdown` dans [votre classeur numérique](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/GitHub/){target=_blank} et **partager** un lien vers ce document par [mail] ;
-- [Orientation](./orientation) ;
-- [PIX](https://pix.fr/){target=_blank}.
 
 ***
 
@@ -271,6 +266,13 @@
     - Projets, ["Fête de la science"](./fete_de_la_science.md), **finaliser** votre poster (type diagramme de contexte) présentant le système envisagé et listant ses fonctionnalités...
     
     - **Finir** les exercices d'[adressage IP et protocole TCP/IP](./CR/FC_Reseaux_TCP-IP.pdf){target=_blank} ;
+***
+
+## Vie de classe du 15/09
+
+- **Rendre** une attestation de recensement ou de JDC ;
+- **Réaliser** une fiche de renseignements pour l'orientation au format `Markdown` dans [votre classeur numérique](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/GitHub/){target=_blank} et **partager** un lien vers ce document par [mail] ;
+- [PIX](https://pix.fr/){target=_blank} : campagne de rentrée avec le code `ZBNFMP522`.
 
 ***
 ## Séances SI-NSI des 09 et 11/09
