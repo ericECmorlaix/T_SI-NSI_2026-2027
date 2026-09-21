@@ -198,51 +198,16 @@
 
 ***
 
-## Séances SI-NSI des 16 et 18/09
-
-=== "CONTENU DE SÉANCE"
-    
-    - **Découvrir** le fonctionnement des réseaux informatiques par la pratique :
-        - Retour sur [Network-TP1](https://nbviewer.org/urls/ericecmorlaix.github.io/T_SI-NSI_2026-2027/CR/Network-Un_BN_pour_la_communication_en_reseau-TP1.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/T_SI-NSI_2026-2027/CR/Network-Un_BN_pour_la_communication_en_reseau-TP1.ipynb){ .md-button .md-button--primary } [Capytale e30a-6969721](https://capytale2.ac-paris.fr/web/c/e30a-6969721){target=_blank .md-button .md-button--primary } ;
-        - Mise en oeuvre de [Network-TP2](https://nbviewer.org/urls/ericecmorlaix.github.io/T_SI-NSI_2026-2027/CR/Network-Un_BN_pour_la_communication_en_reseau-TP2.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/T_SI-NSI_2026-2027/CR/Network-Un_BN_pour_la_communication_en_reseau-TP2.ipynb){ .md-button .md-button--primary } [Capytale c91a-3900713](https://capytale2.ac-paris.fr/web/c/c91a-3900713){target=_blank .md-button .md-button--primary } ; 
 
     
-    - Projets, objectif ["Fête de la science"](./fete_de_la_science) le 13 octobre... -> ==**Compléter** votre TODO liste, **prioriser** les tâches et **vérifier** leur faisabilité technique.==
+    - Projets, objectif ["Fête de la science"](./fete_de_la_science) le 13 octobre... -> ==**Compléter** votre TODO liste, ==
 
 
 === "TRAVAIL À FAIRE"
 
     - Poursuivre tous les travaux engagés...
 
-***
-## Séances SI-NSI des 09 et 11/09
 
-=== "CONTENU DE SÉANCE"
-
-    - Projets, objectif ["Fête de la science"](./fete_de_la_science) le 13 octobre...
-    
-    ???+ abstract ""
-        
-        Suite à votre séance de brainstorming, organisés en équipages de projet autour de quatre domaines d'études correspondants à différentes formes d'**Intelligences Artificielles** :
-        
-            - l'intelligence mécanique (Elia, Killian, + Prof) ;
-            - l'intelligence robotique (Augustin, Baptiste, Rémy) ;
-            - l'intelligence domotique (Elouan, Luna, Yann) ;
-            - l'intelligence générative (Oscar, Adam, Gabriel) ;
-              
-        > - **Créer** un dépot partagé pour [votre projet sur GitHub](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/GitHub/){target=_blank} ;
-        > - **Faire** des recherches documentaires afin de **préciser** vos sujets respectifs ;
-        > - **Initier** la production de votre médiation scientifique à destination de collégiens de quatrième en listant vos tâches dans une TODO liste en mode [agile](./fete_de_la_science/#demarche)...
-        >
-        > Et **Répondre** à la question transversale : *Peut-on affirmer que derrière toutes ces Intelligences Artificielles se cache en réalité toujours de l'intelligence humaine ?*
-
-    - **Découvrir** le fonctionnement des réseaux informatiques par la pratique : [Network-TP1](https://nbviewer.org/urls/ericecmorlaix.github.io/T_SI-NSI_2026-2027/CR/Network-Un_BN_pour_la_communication_en_reseau-TP1.ipynb){target=_blank} ;
-
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/T_SI-NSI_2026-2027/CR/Network-Un_BN_pour_la_communication_en_reseau-TP1.ipynb){ .md-button .md-button--primary } [Capytale n° `e30a-6969721`](https://capytale2.ac-paris.fr/web/c/e30a-6969721){target=_blank .md-button .md-button--primary }
-
-=== "TRAVAIL À FAIRE"
-
-    - Poursuivre les travaux engagés...
 
 ***
 
@@ -253,7 +218,23 @@
 
 -->
 ***
-## Séances SI-NSI du 15/09
+## Séances SI-NSI du 21/09
+
+=== "CONTENU DE SÉANCE"
+
+    - Projets, objectif ["Fête de la science"](./fete_de_la_science) le 12 octobre :
+        - **Créer** un dépot partagé pour [votre projet sur GitHub](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/GitHub/){target=_blank} ;
+        - **Faire** des recherches documentaires afin de **préciser** vos sujets respectifs ;
+        - **Compléter** votre poster (type diagramme de contexte) présentant le système envisagé et listant ses fonctionnalités...
+        - **Initier** la production de votre médiation scientifique à destination de collégiens de quatrième en listant vos tâches dans une TODO liste en mode [agile](./fete_de_la_science/#demarche)...
+        - **Prioriser** les tâches les plus significatives et représentatives et **vérifier** leur faisabilité technique.
+
+=== "TRAVAIL À FAIRE"
+
+    - Poursuivre les travaux engagés...
+
+***
+## Séances SI-NSI des 15 et 18/09
 
 === "CONTENU DE SÉANCE"
     
