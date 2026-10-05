@@ -218,6 +218,20 @@
 
 -->
 ***
+## Séances SI-NSI du 06/10
+
+=== "CONTENU DE SÉANCE"
+
+    - Projets, objectif ["Fête de la science"](./fete_de_la_science) le 12 octobre :
+        - **Rédiger** un plan de communication pour votre médiation scientique à destination d'élèves de quatrième ;
+        - **Préparer** un support visuel de présentation de votre projet : le système envisagé, ses fonctionnalités...
+        - **Décrire** la tache ultime la plus significative et représentative restant à réaliser cette semaine...
+
+=== "TRAVAIL À FAIRE"
+
+    - Poursuivre les travaux engagés...
+
+***
 ## Séances SI-NSI du 21/09
 
 === "CONTENU DE SÉANCE"
